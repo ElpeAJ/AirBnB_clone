@@ -1,0 +1,23 @@
+.places .listings {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	gap: 20px;
+	margin: 20px;
+}
+
+.places h1 {
+	font-size: 30px;
+}
+
+.places .listings h2 {
+	font-size: 30px;
+	text-align: center;
+}
+
+.places .listings article {
+	width: 390px;
+	border: 1px solid #ff5a5f;
+	border-radius: 4px;
+	padding: 20px;
+}
